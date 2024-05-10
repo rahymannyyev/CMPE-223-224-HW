@@ -6,9 +6,9 @@ import java.util.Scanner;
 /*
  * Title: My Main Class
  * Author: Rahymberdi Annyyev
- * ID: 99597840304
- * Section: 03
- * Assignment: 1
+ * ID: ***
+ * Section: ***
+ * Assignment: ***
  * Description: This Class contains all methods that creates bulk of the code itself
  */
 
